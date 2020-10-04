@@ -2,7 +2,7 @@
 
 This repository will hold the files for my portfolio.\
 [Link to deployed portfolio](https://bcourtney1029.github.io/Portfolio/)\
-![Portfolio](portfolio1.png)
+![Portfolio](https://raw.githubusercontent.com/bcourtney1029/Portfolio/master/portfolio1.PNG)
 
 
 ## Contact
